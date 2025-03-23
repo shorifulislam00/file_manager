@@ -34,3 +34,5 @@ auth.json
 /.vscode
 
 *.lock
+
+# exception for voyager package
